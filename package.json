@@ -1,0 +1,19 @@
+{
+  "name": "@types/bootstrap-tagsinput",
+  "version": "1.0.0",
+  "description": "Typings for bootstrap-tagsinput.",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdevdeiv/types-bootstrap-tagsinput.git"
+  },
+  "author": "David Juan Ahullana <info@davidjotta.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdevdeiv/types-bootstrap-tagsinput/issues"
+  },
+  "homepage": "https://github.com/gdevdeiv/types-bootstrap-tagsinput#readme"
+}
